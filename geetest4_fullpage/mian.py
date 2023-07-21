@@ -22,7 +22,6 @@ def main(captchaId, challenge):
     detail_time = res['data']["pow_detail"]["datetime"]
     with open('jiyan.js', 'r', encoding='utf-8') as f:
         js = execjs.compile(f.read())
-    key = js.call('get_key')
     w = js.call('get_w', captchaId, lot_number, detail_time)
     url = "https://gcaptcha4.geetest.com/verify"
     params = {
