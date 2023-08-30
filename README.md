@@ -1,5 +1,3 @@
-# captcha_verify
-some_captcha_verify.极验滑块和无感/geetest fullpage and slide
 <div align="center"> 
 <h1 align="center">
 some_captcha_verify
