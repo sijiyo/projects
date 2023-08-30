@@ -8,11 +8,11 @@ some_captcha_verify
 <br>
 </div>
 
-## ✨项目介绍
+## ✨项目介绍(some_captcha_verify.)
 
-&emsp;&emsp;some_captcha_verify.\n
-极验3-4滑块和无感geetest3-4 fullpage and slide \n
-京东网页滑块jd web_slide \n
+&emsp;&emsp;极验3-4滑块和无感geetest3-4 fullpage and slide
+
+&emsp;&emsp;京东网页滑块jd web_slide
 
 ## 🌟Star History
 
