@@ -12,7 +12,7 @@ some_captcha_verify
 
 ## ✨项目介绍
 
-&emsp;&emsp;some_captcha_verify
+&emsp;&emsp;some_captcha_verify.极验滑块和无感/geetest fullpage and slide
 
 
 
