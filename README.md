@@ -18,4 +18,7 @@ some_captcha_verify
 
 ## 🌟Star History
 
+## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=sijiyo/captcha_verify&type=Date)](https://star-history.com/#sijiyo/captcha_verify&Date)
+
