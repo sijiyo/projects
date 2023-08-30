@@ -17,7 +17,7 @@ def get_captchaId():
 
 
 def get_image(captchaId, challenge):
-    url = "https://gcaptcha4.geetest.com/load?captcha_id=" + captchaId + "&challenge=" + challenge + "&client_type=web&risk_type=slide&pt=1&lang=zho&callback=geetest_" + str(
+    url = "https://gcaptcha4.geetest.com/load?captcha_id=" + captchaId + "&challenge=" + challenge + "&client_type=web&risk_type=slide_old&pt=1&lang=zho&callback=geetest_" + str(
         round(time.time() * 1000))
     res = requests.get(url).text
     res = json.loads(res[res.index("(") + 1:res.rindex(")")])
@@ -42,7 +42,7 @@ def main(captchaId, challenge):
         "captcha_id": captchaId,
         "client_type": "web",
         "lot_number": lot_number,
-        "risk_type": "slide",
+        "risk_type": "slide_old",
         "payload": res['data']['payload'],
         "process_token": res['data']['process_token'],
         "payload_protocol": "1",
