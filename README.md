@@ -8,10 +8,6 @@ some_captcha_verify
 ![](https://img.shields.io/github/stars/sijiyo/captcha_verify?style=social "Star数量")
 ![](https://img.shields.io/github/forks/sijiyo/captcha_verify?style=social "Fork数量")
 <br>
-[![](https://img.shields.io/github/license/sijiyo/captcha_verify "协议")](https://github.com/ReaJason/17wanxiaoCheckin/blob/master/LICENSE)
-[![](https://img.shields.io/github/v/release/sijiyo/captcha_verify "release版本")](https://github.com/ReaJason/17wanxiaoCheckin/releases)
-[![](https://github.com/sijiyo/captcha_verify/actions/workflows/main.yml/badge.svg)](https://github.com/sijiyo/captcha_verify/actions/workflows/main.yml)
-[![](https://github.com/sijiyo/captcha_verify/actions/workflows/dev.yml/badge.svg)](https://github.com/sijiyo/captcha_verify/actions/workflows/dev.yml)
 </div>
 
 ## ✨项目介绍
