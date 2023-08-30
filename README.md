@@ -10,9 +10,9 @@ some_captcha_verify
 
 ## ✨项目介绍
 
-&emsp;&emsp;some_captcha_verify.
-极验3-4滑块和无感geetest3-4 fullpage and slide
-京东网页滑块jd web_slide
+&emsp;&emsp;some_captcha_verify.\n
+极验3-4滑块和无感geetest3-4 fullpage and slide \n
+京东网页滑块jd web_slide \n
 
 ## 🌟Star History
 
