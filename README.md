@@ -2,7 +2,7 @@
 some_captcha_verify.极验滑块和无感/geetest fullpage and slide
 <div align="center"> 
 <h1 align="center">
-🌈17wanxiaoCheckin
+some_captcha_verify
 </h1>
 
 ![](https://img.shields.io/github/stars/sijiyo/captcha_verify?style=social "Star数量")
