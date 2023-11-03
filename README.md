@@ -8,7 +8,7 @@ some_captcha_verify
 <br>
 </div>
 
-## ✨项目介绍(some_captcha_verify.)
+## ✨项目介绍(some_projects.)
 
 &emsp;&emsp;极验3-4滑块和无感geetest3-4 fullpage and slide
 
