@@ -6,10 +6,11 @@ from trace import *
 
 
 def get_image():
-    url = "https://www.geetest.com/demo/gt/register-slide?t=" + str(round(time.time() * 1000))
+    url = "https://www.geetest.com/demo/gt/register-slide-official?t=" + str(round(time.time() * 1000))
     res = requests.get(url).json()
     gt = res['gt']
     challenge = res['challenge']
+    #这是测试返回的gt和challenge,但凡用不了就测测其他的,也别衣来伸手,学会自己维护
     res = requests.get("https://api.geetest.com/ajax.php?gt=" + gt + "&challenge=" + challenge + "&lang=zh-cn&pt=0&w=&callback=geetest_" + str(
             round(time.time() * 1000))).text
     url = "https://api.geetest.com/get.php?is_next=true&type=slide3&gt=" + gt + "&challenge=" + challenge + "&lang=zh-cn&https=true&protocol=https%3A%2F%2F&offline=false&product=embed&api_server=api.geetest.com&isPC=true&autoReset=true&width=100%25&callback=geetest_" + str(
