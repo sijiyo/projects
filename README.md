@@ -15,6 +15,10 @@ some_projects
 &emsp;&emsp;京东网页滑块jd web_slide
 
 &emsp;&emsp;云片滑块/yunpian_slide
+
+## 🙋‍脚本有问题
+* 有问题可提 [issue](https://github.com/ReaJason/17wanxiaoCheckin-Actions/issues)
+
 ## 🌟Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sijiyo/projects&type=Date)](https://star-history.com/#sijiyo/projects&Date)
