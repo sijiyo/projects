@@ -5,10 +5,12 @@
 
 ![](https://img.shields.io/github/stars/sijiyo/projects?style=social "Star数量")
 ![](https://img.shields.io/github/forks/sijiyo/projects?style=social "Fork数量")
-
 <img src="https://img.shields.io/badge/python-3.8-blue"/>
 <img src="https://img.shields.io/github/issues/sijiyo/projects.svg"/> 
 <img src="https://img.shields.io/github/license/sijiyo/projects.svg"/>
+<img src="https://img.shields.io/github/repo-size/sijiyo/projects.svg"/>
+<img src="https://img.shields.io/github/commit-activity/m/sijiyo/projects.svg"/>
+<img src="https://img.shields.io/github/last-commit/sijiyo/projects.svg"/>
 </div>
 
 ## ✨项目介绍(some_projects.)
