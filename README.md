@@ -17,7 +17,7 @@ some_projects
 &emsp;&emsp;云片滑块/yunpian_slide
 
 ## 🙋‍脚本有问题
-* 有问题可提 [issue](https://github.com/ReaJason/17wanxiaoCheckin-Actions/issues)
+* 有问题可提 [issue](https://github.com/sijiyo/projects/issues)
 
 ## 🌟Star History
 
