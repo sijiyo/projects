@@ -12,9 +12,9 @@
 
 ## ✨项目介绍(some_projects.)
 
-&emsp;&emsp;极验3-4滑块和无感geetest3-4 fullpage and slide
+&emsp;&emsp;极验3-4滑块和无感/geetest3-4 fullpage and slide
 
-&emsp;&emsp;京东网页滑块jdweb_slide
+&emsp;&emsp;京东网页滑块/jdweb_slide
 
 &emsp;&emsp;云片滑块/yunpian_slide
 
