@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/python-3.8-blue"/>
 <img src="https://img.shields.io/github/issues/sijiyo/projects.svg"/> 
-[![](https://img.shields.io/github/license/sijiyo/projects "协议")](https://github.com/sijiyo/projects/blob/master/LICENSE)
+<img src="https://img.shields.io/github/license/sijiyo/projects.svg"/>
 </div>
 
 ## ✨项目介绍(some_projects.)
