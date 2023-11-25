@@ -5,7 +5,6 @@
 
 ![](https://img.shields.io/github/stars/sijiyo/projects?style=social "Star数量")
 ![](https://img.shields.io/github/forks/sijiyo/projects?style=social "Fork数量")
-<br>
 [![](https://img.shields.io/github/license/sijiyo/projects "协议")](https://github.com/sijiyo/projects/blob/master/LICENSE)
 [![](https://github.com/sijiyo/projects/actions/workflows/main.yml/badge.svg)](https://github.com/sijiyo/projects/actions/workflows/main.yml)
 [![](https://github.com/sijiyo/projects/actions/workflows/dev.yml/badge.svg)](https://github.com/sijiyo/projects/actions/workflows/dev.yml)
