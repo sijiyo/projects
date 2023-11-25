@@ -3,8 +3,8 @@
 some_projects
 </h1>
 
-![](https://img.shields.io/github/stars/sijiyo/captcha_verify?style=social "Star数量")
-![](https://img.shields.io/github/forks/sijiyo/captcha_verify?style=social "Fork数量")
+![](https://img.shields.io/github/stars/sijiyo/projects?style=social "Star数量")
+![](https://img.shields.io/github/forks/sijiyo/projects?style=social "Fork数量")
 <br>
 </div>
 
@@ -17,4 +17,4 @@ some_projects
 &emsp;&emsp;云片滑块/yunpian_slide
 ## 🌟Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sijiyo/captcha_verify&type=Date)](https://star-history.com/#sijiyo/captcha_verify&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sijiyo/projects&type=Date)](https://star-history.com/#sijiyo/projects&Date)
