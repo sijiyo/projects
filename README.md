@@ -2,6 +2,8 @@
 <h1 align="center">
 🌈some_projects
 </h1>
+## ✈️ telegram group
+*(https://t.me/+22Qm1wYhnRRjMWI1)
 
 ![](https://img.shields.io/github/stars/sijiyo/projects?style=social "Star数量")
 ![](https://img.shields.io/github/forks/sijiyo/projects?style=social "Fork数量")
