@@ -24,6 +24,9 @@
 
 ## 🙋‍脚本有问题
 * 有问题可提 [issue](https://github.com/sijiyo/projects/issues)
+## ✈️ Telegram group
+* 有业务以及疑问可联系 [Telegram]
+(https://t.me/+22Qm1wYhnRRjMWI1)
 
 ## 🌟Star History
 
