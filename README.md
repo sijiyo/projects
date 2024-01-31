@@ -1,6 +1,3 @@
-## ✈️ telegram group
-* 有其他业务与需求可联系 [telegram]
-(https://t.me/+22Qm1wYhnRRjMWI1)
 <div align="center"> 
 <h1 align="center">
 🌈some_projects
