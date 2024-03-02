@@ -22,6 +22,8 @@
 
 &emsp;&emsp;云片滑块/yunpian_slide
 
+&emsp;&emsp;数美滑块/shumei_slide
+
 ## 🙋‍脚本有问题
 * 有问题可提 [issue](https://github.com/sijiyo/projects/issues)
 ## ✈️ Telegram group
